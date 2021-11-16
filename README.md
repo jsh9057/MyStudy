@@ -9,3 +9,4 @@ Wiki를 참고해주세요.
 2. [빈의 스코프](https://github.com/jsh9057/MyStudy/wiki/%EB%B9%88%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84)
 3. [Environment 1부. 프로파일](https://github.com/jsh9057/MyStudy/wiki/Environment1%EB%B6%80.-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC)
 4. [Environment 2부. 프로퍼티](https://github.com/jsh9057/MyStudy/wiki/Environment-2%EB%B6%80.-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0)
+5. [MessageSource](https://github.com/jsh9057/MyStudy/wiki/MessageSource)
