@@ -10,3 +10,4 @@ Wiki를 참고해주세요.
 3. [Environment 1부. 프로파일](https://github.com/jsh9057/MyStudy/wiki/Environment1%EB%B6%80.-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC)
 4. [Environment 2부. 프로퍼티](https://github.com/jsh9057/MyStudy/wiki/Environment-2%EB%B6%80.-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0)
 5. [MessageSource](https://github.com/jsh9057/MyStudy/wiki/MessageSource)
+6. [ApplicationEventPublisher](https://github.com/jsh9057/MyStudy/wiki/ApplicationEventPublisher)
