@@ -21,3 +21,4 @@ Wiki를 참고해주세요.
   
 ## 데이터 바인딩  
 [데이터 바인딩 추상화: PropertyEditor](https://github.com/jsh9057/MyStudy/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%94%EC%9D%B8%EB%94%A9-%EC%B6%94%EC%83%81%ED%99%94:-PropertyEditor)  
+[데이터 바인딩 추상화: Converter와 Formatter](https://github.com/jsh9057/MyStudy/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%94%EC%9D%B8%EB%94%A9-%EC%B6%94%EC%83%81%ED%99%94:-Converter%EC%99%80-Formatter)
